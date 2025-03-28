@@ -6,7 +6,6 @@
         <groupId>io.trino</groupId>
         <artifactId>trino-root</artifactId>
         <version>466</version>
-        <relativePath>../../pom.xml</relativePath>
     </parent>
 
     <artifactId>trino-openlineage</artifactId>
